@@ -1,0 +1,104 @@
+body {
+        background-image: url(https://www.dreamtemplate.com/dreamcodes/bg_images/color/c15.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: white;
+        font-weight: bold;
+        max-width: 100%;
+            }
+
+.navbar {
+    font-family: 'Acme', sans-serif;
+
+}
+
+img {
+    height: 200px;
+    width: 275px;
+    align-items: center;
+    border-radius: 4px;
+    border-color: white;
+    margin-top: 30px;
+    margin-left: 100px;
+}
+
+#info{ 
+    margin-top: 45px;
+
+}
+h2 {
+    color: yellow;
+    font-family: 'Shadows Into Light', cursive;
+
+
+}
+
+#nameDiv {
+    color: yellow;
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+
+}
+
+#aboutMe {
+    color: yellow;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: large;
+
+}
+
+.flex-container {
+    margin-top: 55px;
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+  }
+
+  .card {
+      display: flex;
+      align-items: stretch;
+  }
+
+ 
+
+#links {
+    text-align: center;
+    margin-top: 125px;
+    padding: 35px;
+}
+
+.ctform {background-color: lightgray;
+    width: 500px;
+    height: 370px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5mm;
+    margin-bottom: 5mm;
+    border-style: solid;
+    border-width: 1mm;
+    border-color: black;
+    }
+
+#formBox {
+    display: flex;
+}
+    
+
+button {margin-top: 2mm;
+}
+
+H3 {
+    padding-top: 25px;
+    text-align: center;
+    color: yellow;
+}
+    
+footer {
+    
+    bottom: 0;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+
+}
