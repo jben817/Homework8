@@ -51,13 +51,19 @@ h2 {
 .flex-container {
     margin-top: 55px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
     background-color: black;
   }
 
   .card {
       display: flex;
       align-items: stretch;
+  }
+
+  .card-decks {
+      margin-top: 10px;
+      margin-left: 10px;
+      margin-right: 10px;
   }
 
  
